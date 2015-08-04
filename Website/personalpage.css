@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'PrayingAngel';
+    src: url('/Praying Angel.ttf')
+}
+
+h1 {
+    font-family: 'PrayingAngel';
+    font-size: 36px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+a:hover { 
+    color: lavender;
+}
+body {
+    text-align: center;
+    background: white;
+    background-size: cover;
+    background-position:center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: black;
+    font-family: Josefin Sans;
+    font-size: 15px;
+}
+p {
+    font-size: 24px;
+}
