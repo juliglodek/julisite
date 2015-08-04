@@ -25,7 +25,7 @@ body {
     font-size: 16px;
 }
 p {
-    font-size: 24px;
+    font-size: 16px;
 }
 #leftimage {
     /*width: 350px;*/
@@ -38,10 +38,18 @@ p {
     float: right;
 }
 #pricing {
-    margin-left: 30%;
+    margin-left: 10%;
     float: left;
 }
 #contact {
-    margin-right: 30%;
+    margin-right: 10%;
     float: right;
+}
+div {
+    text-align: left;
+
+}
+#inquiries {
+    width: 316px;
+    height: 200px;
 }
